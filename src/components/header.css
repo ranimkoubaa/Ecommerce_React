@@ -1,0 +1,26 @@
+.search-box{
+    position: absolute;
+    float: left;
+    display: flex;
+    margin-top: 450px;
+    margin-left: 400px;
+    width: 500px;
+    height: 50px;
+    overflow: hidden;
+}
+.search-input{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    font-size: 24px;
+    padding-left: 50px;
+    border: "1px solid #001524";
+}
+.bi-search{
+    color: #000;
+    position: relative;
+    margin-right: 100px;
+    padding-top: 9px;
+    padding-left: 10px;
+    font-size: 25px;
+}
